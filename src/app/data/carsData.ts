@@ -41,7 +41,7 @@ export const carsData = [
       price: '$45,000',
       color: 'Silver',
       manufacturer: 'Mercedes-Benz',
-      imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAJjZb8Be8giajt6rxoLXfoufHlMxGScyyoA&s',
+      imageUrl: 'https://www.shutterstock.com/image-illustration/almaty-kazakhstan-march-25-2020-600nw-1712942737.jpg',
     },
     {
       id: 6,
@@ -89,7 +89,7 @@ export const carsData = [
       price: '$28,000',
       color: 'Grey',
       manufacturer: 'Mazda',
-      imageUrl: 'https://carsales.pxcrush.net/car/spec/S0004ZZ7.jpg?pxc_method=GravityFill&width=480&height=320&watermark=1648356304',
+      imageUrl: 'https://images.edealer.ca/18/147047638.jpeg',
     },
     {
       id: 12,
